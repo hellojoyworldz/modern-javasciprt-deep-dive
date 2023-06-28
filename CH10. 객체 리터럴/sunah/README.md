@@ -276,7 +276,7 @@ obj[prefix + "-" + ++i] = i;
 obj[prefix + "-" + ++i] = i;
 obj[prefix + "-" + ++i] = i;
 
-console.log(obj); //{prop-1: 1, prop-2: 2, prop-3: 3 }
+console.log(obj); // {prop-1: 1, prop-2: 2, prop-3: 3 }
 
 // ES6
 const prefix = "prop";
@@ -287,7 +287,7 @@ const obj = {
   [`${prefix}-${++i}`]: i,
 };
 
-console.log(obj); //{prop-1: 1, prop-2: 2, prop-3: 3 }
+console.log(obj); // {prop-1: 1, prop-2: 2, prop-3: 3 }
 ```
 
 ### 10-9-3. 메서드 축약 표현
