@@ -13,15 +13,15 @@
 
 ## 과제 & 스터디 출석
 
-| 이름(경고횟수)                               | 1주차 |  2  | 3   | 4   | 5   | 6   | 7   |
-| -------------------------------------------- | :---: | :-: | --- | --- | --- | --- | --- |
-| [선아](https://github.com/hellojoyworldz)(-) |  o/o  | o/o |
-| [수아](https://github.com/yppeu)(-)          |  o/o  | o/o |
-| 연지(-)                                      |  o/o  | o/o |
-| 유주(-)                                      |  o/o  | o/o |
-| [종원](https://github.com/Ubermensch0608)(-) |  o/o  | o/o |
-| 현우(-)                                      |  o/x  | x/x |
-| 래한(-)                                      |  o/x  | o/x |
+| 이름(경고횟수)                            | 1주차 | 2   | 3   | 4   | 5   | 6   | 7   |
+| ----------------------------------------- | :---: | --- | --- | --- | --- | --- | --- |
+| [선아](https://github.com/hellojoyworldz) |  o/o  | o/o |
+| [수아](https://github.com/yppeu)          |  o/o  | o/o |
+| [연지](https://github.com/yeonjikimro)    |  o/o  | o/o |
+| [유주](https://github.com/yuzulike)       |  o/o  | o/o |
+| [종원](https://github.com/Ubermensch0608) |  o/o  | o/o |
+| [현우](https://github.com/hyunwoostart)   |  o/x  | x/x |
+| [래한](https://github.com/rae-han)        |  o/x  | o/x |
 
 ## 진도
 
