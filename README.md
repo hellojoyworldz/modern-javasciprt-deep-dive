@@ -11,20 +11,10 @@
 - 스터디 과제 미완료시 경고 1회 입니다.
 - 누적 경고 3회 시 스터디에 참여하지 못합니다.
 
-## 팀원 소개
-
-[선아](https://github.com/hellojoyworldz)
-[수아](https://github.com/yppeu)  
-[연지](https://github.com/yeonjikimro)  
-[유주](https://github.com/yuzulike)  
-[종원](https://github.com/Ubermensch0608)
-[현우](https://github.com/hyunwoostart)  
-[래한](https://github.com/rae-han)
-
 ## 과제 & 스터디 출석
 
-| 이름(경고횟수)                            | 1주차 | 2   | 3   | 4   | 5   | 6   | 7   |
-| ----------------------------------------- | :---: | --- | --- | --- | --- | --- | --- |
+| 이름(경고횟수)                            | 1주차 |  2  | 3   | 4   | 5   | 6   | 7   |
+| ----------------------------------------- | :---: | :-: | --- | --- | --- | --- | --- |
 | [선아](https://github.com/hellojoyworldz) |  o/o  | o/o |
 | [수아](https://github.com/yppeu)          |  o/o  | o/o |
 | [연지](https://github.com/yeonjikimro)    |  o/o  | o/o |
@@ -122,4 +112,4 @@
 - 발표 : CH14.유주 & CH15.종원 & CH16.현우
 - 과제
 
-CH17.생성자 함수에 의한 객체 생성
+6. CH17.생성자 함수에 의한 객체 생성
