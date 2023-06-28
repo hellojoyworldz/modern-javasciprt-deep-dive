@@ -11,17 +11,27 @@
 - 스터디 과제 미완료시 경고 1회 입니다.
 - 누적 경고 3회 시 스터디에 참여하지 못합니다.
 
+## 팀원 소개
+
+[선아](https://github.com/hellojoyworldz)
+[수아](https://github.com/yppeu)  
+[연지](https://github.com/yeonjikimro)  
+[유주](https://github.com/yuzulike)  
+[종원](https://github.com/Ubermensch0608)
+[현우](https://github.com/hyunwoostart)  
+[래한](https://github.com/rae-han)
+
 ## 과제 & 스터디 출석
 
-| 이름(경고횟수)                               | 1주차 | 2   | 3   | 4   | 5   | 6   | 7   |
-| -------------------------------------------- | :---: | --- | --- | --- | --- | --- | --- |
-| [선아](https://github.com/hellojoyworldz)(-) |  o/o  |
-| [수아](https://github.com/yppeu)(-)          |  o/o  |
-| 연지(-)                                      |  o/o  |
-| 유주(-)                                      |  o/o  |
-| [종원](https://github.com/Ubermensch0608)(-) |  o/o  |
-| 현우(-)                                      |  o/x  |
-| 래한(-)                                      |  o/x  |
+| 이름(경고횟수)                            | 1주차 | 2   | 3   | 4   | 5   | 6   | 7   |
+| ----------------------------------------- | :---: | --- | --- | --- | --- | --- | --- |
+| [선아](https://github.com/hellojoyworldz) |  o/o  | o/o |
+| [수아](https://github.com/yppeu)          |  o/o  | o/o |
+| [연지](https://github.com/yeonjikimro)    |  o/o  | o/o |
+| [유주](https://github.com/yuzulike)       |  o/o  | o/o |
+| [종원](https://github.com/Ubermensch0608) |  o/o  | o/o |
+| [현우](https://github.com/hyunwoostart)   |  o/x  | x/x |
+| [래한](https://github.com/rae-han)        |  o/x  | o/x |
 
 ## 진도
 
@@ -52,28 +62,64 @@
 - 날짜 : 23.06.21(수)
 - 발표 : CH6.연지, CH7.유주, CH8.종원
 - 과제:
-  [선아](),
-  [수아](),
-  [연지](),
-  [유주](),
-  [종원](),
-  [현우](),
-  [래한](),
+  - CH6.데이터 타입
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/blob/master/CH6.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/sunah/README.md),
+    [수아](https://aqusua.tistory.com/26),
+    [연지](https://blog.naver.com/PostView.naver?blogId=duswlskfk42&logNo=223133563634&parentCategoryNo=&categoryNo=41&viewDate=&isShowPopularPosts=false&from=postView),
+    [유주](https://velog.io/@leah1225/Javascript-Deep-Dive-6장-데이터-타입),
+    [종원](https://fantasy-iris-224.notion.site/ch-06-28fd68385a6047e4a41e6bcb2408d21e),
+    [현우](),
+    [래한](https://www.notion.so/raehan/6-75eed5db980e4660b0cb00602d759d09?pvs=4)
+  - CH7.연산자
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/blob/master/CH7.%20%EC%97%B0%EC%82%B0%EC%9E%90/sunah/README.md),
+    [수아](https://aqusua.tistory.com/27?category=1028778),
+    [연지](https://blog.naver.com/PostView.naver?blogId=duswlskfk42&logNo=223134303110&categoryNo=41&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1),
+    [유주-1](https://velog.io/@leah1225/Javascript-Deep-Dive-7장-연산자),
+    [유주-2](https://velog.io/@leah1225/Javascript-Deep-Dive-7장-연산자-2),
+    [종원](https://fantasy-iris-224.notion.site/ch-07-52c647e8e49d4137bfcf45b0cd1121cd),
+    [현우](),
+    [래한](https://www.notion.so/raehan/7-f0dfea673b494689989fbc0b7f50e685?pvs=4)
+  - CH8.제어문
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/blob/master/CH8.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/sunah/README.md),
+    [수아](https://aqusua.tistory.com/28?category=1028778),
+    [연지](https://blog.naver.com/PostView.naver?blogId=duswlskfk42&logNo=223134348164&categoryNo=41&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1),
+    [유주](https://velog.io/@leah1225/Javascript-Deep-Dive-8장-제어문),
+    [종원](https://fantasy-iris-224.notion.site/ch-08-daf46ad3c01b42f1acfbc240d5f24979),
+    [현우](),
+    [래한](https://www.notion.so/raehan/8-b62693a930174ac1805583fa9205c134?pvs=4)
 
-3. CH9.타입 변환과 단축 평가 & CH10.객체 리터럴 & CH11.원시 값과 객체의 비교
+3. CH9.타입 변환과 단축 평가 & CH10.객체 리터럴
 
-- 날짜 : 23.06.28(수)
-- 발표 : CH9.현우, CH10.래한, CH11.선아
+- 날짜 : 23.06.29(목)
+- 발표 : CH9.현우, CH10.래한
+- 과제
+  - CH9.타입 변환과 단축 평가
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/blob/master/CH09.%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%EA%B3%BC%20%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80/sunah/README.md),
+    [수아](https://aqusua.tistory.com/29?category=1028778),
+    [연지](https://blog.naver.com/duswlskfk42/223139273139),
+    [유주](),
+    [종원](https://www.notion.so/ch-09-c2c85e45c46141efa7fd93dc1dcf0861?pvs=4),
+    [현우](),
+    [래한](https://www.notion.so/raehan/9-ab36f3f5ac6a4e2cbaf6f0a4fa2584f3?pvs=4)
+  - CH10.객체 리터럴
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/blob/master/CH10.%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4/sunah/README.md),
+    [수아](https://aqusua.tistory.com/30),
+    [연지](https://blog.naver.com/duswlskfk42/223139493423),
+    [유주](),
+    [종원](https://www.notion.so/ch-10-e961772ba0bb411f987222ebb7314f32?pvs=4),
+    [현우](),
+    [래한](https://www.notion.so/raehan/10-42f6be7cae39473db2b802b4b54169a9?pvs=4)
+
+4. CH11.원시 값과 객체의 비교 & CH12.함수 & CH13.스코프
+
+- 날짜 : 23.07.06(목)
+- 발표 : CH11.선아 & CH12.수아 & CH13.연지
 - 과제
 
-4. CH12.함수 & CH13.스코프 & CH14.전역 변수의 문제점
+5. CH14.전역 변수의 문제점 & CH15.let, const 키워드와 블록 레벨 스코프 & CH16.프로퍼티 어트리뷰트
 
-- 날짜 : 23.07.05(수)
-- 발표 : CH9.수아, CH10.연지, CH11.유주
+- 날짜 : 23.07.13(목)
+- 발표 : CH14.유주 & CH15.종원 & CH16.현우
 - 과제
 
-5. CH15.let, const 키워드와 블록 레벨 스코프 & CH16.프로퍼티 어트리뷰트 & CH17.생성자 함수에 의한 객체 생성
-
-- 날짜 : 23.07.12(수)
-- 발표 : CH15.종원, CH16.현우, CH17.래한
-- 과제
+CH17.생성자 함수에 의한 객체 생성
