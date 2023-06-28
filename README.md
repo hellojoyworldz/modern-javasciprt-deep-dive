@@ -78,20 +78,42 @@
     [현우](),
     [래한](https://www.notion.so/raehan/8-b62693a930174ac1805583fa9205c134?pvs=4)
 
-3. CH9.타입 변환과 단축 평가 & CH10.객체 리터럴 & CH11.원시 값과 객체의 비교
+3. CH9.타입 변환과 단축 평가 & CH10.객체 리터럴
 
-- 날짜 : 23.06.28(수)
-- 발표 : CH9.현우, CH10.래한, CH11.선아
+- 날짜 : 23.06.29(목)
+- 발표 : CH9.현우, CH10.래한
+- 과제
+  - CH9.타입 변환과 단축 평가 :
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/blob/master/CH09.%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%EA%B3%BC%20%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80/sunah/README.md),
+    [수아](https://aqusua.tistory.com/29?category=1028778),
+    [연지](https://blog.naver.com/duswlskfk42/223139273139),
+    [유주](),
+    [종원](https://www.notion.so/ch-09-c2c85e45c46141efa7fd93dc1dcf0861?pvs=4),
+    [현우](),
+    [래한](https://www.notion.so/raehan/9-ab36f3f5ac6a4e2cbaf6f0a4fa2584f3?pvs=4)
+  - CH10.객체 리터럴 :
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/blob/master/CH10.%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4/sunah/README.md),
+    [수아](https://aqusua.tistory.com/30),
+    [연지](https://blog.naver.com/duswlskfk42/223139493423),
+    [유주](),
+    [종원](https://www.notion.so/ch-10-e961772ba0bb411f987222ebb7314f32?pvs=4),
+    [현우](),
+    [래한](https://www.notion.so/raehan/10-42f6be7cae39473db2b802b4b54169a9?pvs=4)
+
+4. CH11.원시 값과 객체의 비교 & CH12.함수 & CH13.스코프
+
+- 날짜 : 23.07.06(목)
+- 발표 : CH11.선아 & CH12.수아 & CH13.연지
 - 과제
 
-4. CH12.함수 & CH13.스코프 & CH14.전역 변수의 문제점
+5. CH14.전역 변수의 문제점 & CH15.let, const 키워드와 블록 레벨 스코프 & CH16.프로퍼티 어트리뷰트
 
-- 날짜 : 23.07.05(수)
-- 발표 : CH9.수아, CH10.연지, CH11.유주
+- 날짜 : 23.07.13(목)
+- 발표 : CH14.유주 & CH15.종원 & CH16.현우
 - 과제
 
-5. CH15.let, const 키워드와 블록 레벨 스코프 & CH16.프로퍼티 어트리뷰트 & CH17.생성자 함수에 의한 객체 생성
+6. CH17.생성자 함수에 의한 객체 생성
 
-- 날짜 : 23.07.12(수)
-- 발표 : CH15.종원, CH16.현우, CH17.래한
-- 과제
+- 날짜 :
+- 발표 :
+- 과제 :
