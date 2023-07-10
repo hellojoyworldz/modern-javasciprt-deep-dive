@@ -24,8 +24,6 @@
 | [래한](https://github.com/rae-han)        |  o/x  | o/x | o/o | o/o |
 
 
-
-
 ## 진행사항
 
 ### 1회차
@@ -33,20 +31,23 @@
 - 내용: CH4.변수, CH5.표현식과 문
 - 발표: CH4.선아, CH5.수아
 - 과제
-  - CH4. 변수
-    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/tree/master/CH4.%20%EB%B3%80%EC%88%98/sunah)
-    [수아](https://aqusua.tistory.com/19)
-    [연지](https://blog.naver.com/duswlskfk42/223128150767)
-    [유주](https://velog.io/@leah1225/javascript-deep-dive-4%EC%9E%A5-%EB%B3%80%EC%88%98)
-    [종원](https://fantasy-iris-224.notion.site/Ch4-c5bbe1898dd24039b020ef1f11353a17?pvs=4)
-    [래한](https://www.notion.so/raehan/4-1e4fccf5f1284d838b81051710f4167e?pvs=4)
-  - CH5. 표현식과 문
-    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/tree/master/CH5.%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8/sunah)
-    [수아](https://aqusua.tistory.com/21)
-    [연지](https://blog.naver.com/duswlskfk42/223128160921)
-    [유주](https://velog.io/@leah1225/Javascript-Deep-Dive-5%EC%9E%A5-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8)
-    [종원](https://fantasy-iris-224.notion.site/Ch5-59548e0f725545fbb5efd0ad896738cf?pvs=4)
-    [래한](https://www.notion.so/raehan/5-ccae764153fa48f9ba3dba27c6025390?pvs=4)
+  - CH4. 변수 :
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/tree/master/CH4.%20%EB%B3%80%EC%88%98/sunah),
+    [수아](https://aqusua.tistory.com/19),
+    [연지](https://blog.naver.com/duswlskfk42/223128150767),
+    [유주](https://velog.io/@leah1225/javascript-deep-dive-4%EC%9E%A5-%EB%B3%80%EC%88%98),
+    [종원](https://fantasy-iris-224.notion.site/Ch4-c5bbe1898dd24039b020ef1f11353a17?pvs=4),
+    [현우](https://cute-syrup-73b.notion.site/4-Deep-Dive-0cdca5aaecb6430abcc57a9a3ec700b3?pvs=4),
+    [래한](https://www.notion.so/raehan/4-1e4fccf5f1284d838b81051710f4167e?pvs=4),
+  - CH5. 표현식과 문 :
+    [선아](https://github.com/hellojoyworldz/modern-javasciprt-deep-dive/tree/master/CH5.%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8/sunah),
+    [수아](https://aqusua.tistory.com/21),
+    [연지](https://blog.naver.com/duswlskfk42/223128160921),
+    [유주](https://velog.io/@leah1225/Javascript-Deep-Dive-5%EC%9E%A5-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8),
+    [종원](https://fantasy-iris-224.notion.site/Ch5-59548e0f725545fbb5efd0ad896738cf?pvs=4),
+    [현우](https://cute-syrup-73b.notion.site/5-Deep-Dive-6caa840b3f93473e836753c853863a00?pvs=4),
+    [래한](https://www.notion.so/raehan/5-ccae764153fa48f9ba3dba27c6025390?pvs=4),
+
 
 ### 2회차
 - 날짜: 23.06.21(수)
@@ -95,6 +96,7 @@
     [유주](https://velog.io/@leah1225/Javascript-Deep-Dive-10%EC%9E%A5-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4),
     [종원](https://www.notion.so/ch-10-e961772ba0bb411f987222ebb7314f32?pvs=4),
     [래한](https://www.notion.so/raehan/10-42f6be7cae39473db2b802b4b54169a9?pvs=4)
+
 
 ### 4회차
 - 날짜: 23.07.06(목)
@@ -145,6 +147,7 @@
     [유주](),
     [종원](),
     [래한]()
+    
 ### 7회차
 - 날짜 : 23.07.27(목)
 - 발표 :
@@ -155,6 +158,7 @@
     [유주](),
     [종원](),
     [래한]()
+    
 ### 8회차
 - 날짜 : 23.08.03(목)
 - 발표 :
@@ -165,6 +169,7 @@
     [유주](),
     [종원](),
     [래한]()
+    
 ### 9회차
 - 날짜 : 23.08.10(목)
 - 발표 :
