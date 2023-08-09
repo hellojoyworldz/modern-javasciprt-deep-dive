@@ -1,4 +1,4 @@
-const strObj = new String('Lee');
+const strObj = new String("Lee");
 console.log(typeof strObj); //object
 console.log(strObj); //[String: 'Lee']
 
@@ -10,11 +10,11 @@ const boolObj = new Boolean(true);
 console.log(typeof boolObj); // object
 console.log(boolObj); // [Boolean: true]
 
-const func = new Function('x','return x*x');
+const func = new Function("x", "return x*x");
 console.log(typeof func); // function
 console.log(func); // [Function: anonymous]
 
-const arr = new Array(1,2,3);
+const arr = new Array(1, 2, 3);
 console.log(typeof arr); // object
 console.log(arr); //[ 1, 2, 3 ]
 
